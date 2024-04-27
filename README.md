@@ -13,7 +13,7 @@ An awesome list dedicated for the [MLX library](https://github.com/ml-explore/ml
 
 ## Libraries and Tools
 
-- [mlxserver](This Python library is the easist way to begin building on top of Apple's machine learning library, MLX.)
+- [mlxserver](https://www.mlxserver.com/): This Python library is the easist way to begin building on top of Apple's machine learning library, MLX.
 
 ## Demos
 
