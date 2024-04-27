@@ -20,9 +20,11 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 
 - [mlxserver](https://www.mlxserver.com/): This Python library is the easist way to begin building on top of Apple's machine learning library, MLX.
 - [mlx-llm](https://github.com/riccardomusmeci/mlx-llm): Large Language Models (LLMs) applications and tools running on Apple Silicon in real-time with Apple MLX.
+- [lightning-whisper-mlx](https://github.com/mustafaaljadery/lightning-whisper-mlx): An incredibly fast implementation of Whisper optimized for Apple Silicon.
 
 ## Demo
 
 - [Ph3iOSOnDeviceChatApp](https://inkysquid4.gumroad.com/l/lghejp): Source code to run Microsoft's Phi 3 Min 4K model completely on device
+- [photo-similarity-search](https://github.com/harperreed/photo-similarity-search): Super simple MLX (apple silicon) CLIP based photo similarity web app
 
 ## MLX Swift
