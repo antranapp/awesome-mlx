@@ -10,6 +10,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [A Deep Dive into Apple’s Machine Learning Framework (MLX) — Step by Step Introduction](https://medium.com/@dynotes/a-deep-dive-into-apples-machine-learning-framework-mlx-step-by-step-introduction-d00681e56de2)
 - [Deploying LLMs locally with Apple’s MLX framework](https://towardsdatascience.com/deploying-llms-locally-with-apples-mlx-framework-2b3862049a93)
 - [MLX Tutorial: Apple's Bold Move in Machine Learning Arena!](https://www.youtube.com/watch?v=DIpv7CQloSk) 
+- [Deep Dive into AI with MLX and PyTorch](https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch): "Deep Dive into AI with MLX and PyTorch" is an educational initiative designed to help anyone interested in AI, specifically in machine learning and deep learning, using Apple's MLX and Meta's PyTorch frameworks.
 
 ## Models
 
