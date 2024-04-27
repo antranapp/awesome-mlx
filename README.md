@@ -29,6 +29,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [mlxcli](https://github.com/mustafaaljadery/mlxcli): Run large models from the terminal using Apple MLX.
 - [SiLLM](https://github.com/armbues/SiLLM): SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 - [MLX_CLIP 📚🤖](https://github.com/harperreed/mlx_clip): A simple package to use CLIP on apple silicon using the MLX libraries from Apple
+- [outlinesmlx](https://github.com/sacha-ichbiah/outlines-mlx): A fast minimalistic implementation of guided generation on Apple Silicon using Outlines and MLX
 
 ## Demo
 
@@ -37,5 +38,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [photo-similarity-search](https://github.com/harperreed/photo-similarity-search): Super simple MLX (apple silicon) CLIP based photo similarity web app
 - [Video Summarization](https://github.com/Peter-obi/Video_summarization_mlx): Transcribe and summarize videos using whisper and llms on apple mlx framework
 - [MLX Assistant](https://github.com/Doriandarko/mlx-assistant): A simple script to enhance text editing across your Mac, leveraging the power of MLX. Designed for seamless integration, it offers real-time text correction everywhere you type.
+- [MLX RAG With GGUF Model Weights](https://github.com/Jaykef/mlx-rag-gguf): Minimal, clean code implementation of RAG with mlx using gguf model weights
+- [Enhancing Video Analysis with MLX: A Guide](https://github.com/abhishek-ch/mlx-video-qa): Explore the capabilities of the MLX library and leverage the genAI stack on MacOS to interact with any video.
 
 ## MLX Swift
