@@ -25,6 +25,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 ## Demo
 
 - [Ph3iOSOnDeviceChatApp](https://inkysquid4.gumroad.com/l/lghejp): Source code to run Microsoft's Phi 3 Min 4K model completely on device
+- [mlx-chat-app](https://github.com/mlx-chat/mlx-chat-app): Chat with MLX is a high-performance macOS application that connects your local documents to a personalized large language model (LLM).
 - [photo-similarity-search](https://github.com/harperreed/photo-similarity-search): Super simple MLX (apple silicon) CLIP based photo similarity web app
 
 ## MLX Swift
