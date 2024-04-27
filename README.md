@@ -44,6 +44,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [MLX RAG With GGUF Model Weights](https://github.com/Jaykef/mlx-rag-gguf): Minimal, clean code implementation of RAG with mlx using gguf model weights
 - [Enhancing Video Analysis with MLX: A Guide](https://github.com/abhishek-ch/mlx-video-qa): Explore the capabilities of the MLX library and leverage the genAI stack on MacOS to interact with any video.
 - [MLX Demos](https://github.com/RAHB-REALTORS-Association/mlx-demos): Explore machine learning techniques with Gradio interfaces for Stable Diffusion image generation and LoRA text generation with the Apple MLX framework.
+- [MLX Chat](https://github.com/da-z/mlx-ui): A simple UI / Web / Frontend for MLX mlx-lm using Streamlit.
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
