@@ -30,6 +30,8 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [SiLLM](https://github.com/armbues/SiLLM): SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 - [MLX_CLIP 📚🤖](https://github.com/harperreed/mlx_clip): A simple package to use CLIP on apple silicon using the MLX libraries from Apple
 - [outlinesmlx](https://github.com/sacha-ichbiah/outlines-mlx): A fast minimalistic implementation of guided generation on Apple Silicon using Outlines and MLX
+- [mlx-embedding-models](https://github.com/taylorai/mlx_embedding_models): Run text embeddings on your Apple Silicon GPU. Supports any BERT- or RoBERTa-based embedding model, with a curated registry of high-performing models that just work off the shelf.
+- [RLX: Reinforcement Learning with MLX](https://github.com/noahfarr/rlx): https://github.com/noahfarr/rlx
 
 ## Demo
 
