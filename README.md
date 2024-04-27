@@ -11,6 +11,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [Deploying LLMs locally with Apple’s MLX framework](https://towardsdatascience.com/deploying-llms-locally-with-apples-mlx-framework-2b3862049a93)
 - [MLX Tutorial: Apple's Bold Move in Machine Learning Arena!](https://www.youtube.com/watch?v=DIpv7CQloSk) 
 - [Deep Dive into AI with MLX and PyTorch](https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch): "Deep Dive into AI with MLX and PyTorch" is an educational initiative designed to help anyone interested in AI, specifically in machine learning and deep learning, using Apple's MLX and Meta's PyTorch frameworks.
+- [Notes on the Apple MLX machine learning framework](https://github.com/uogbuji/mlx-notes): Shared personal notes created while working with the Apple MLX machine learning framework
 
 ## Models
 
@@ -42,5 +43,9 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [MLX Assistant](https://github.com/Doriandarko/mlx-assistant): A simple script to enhance text editing across your Mac, leveraging the power of MLX. Designed for seamless integration, it offers real-time text correction everywhere you type.
 - [MLX RAG With GGUF Model Weights](https://github.com/Jaykef/mlx-rag-gguf): Minimal, clean code implementation of RAG with mlx using gguf model weights
 - [Enhancing Video Analysis with MLX: A Guide](https://github.com/abhishek-ch/mlx-video-qa): Explore the capabilities of the MLX library and leverage the genAI stack on MacOS to interact with any video.
+- [MLX Demos](https://github.com/RAHB-REALTORS-Association/mlx-demos): Explore machine learning techniques with Gradio interfaces for Stable Diffusion image generation and LoRA text generation with the Apple MLX framework.
 
 ## MLX Swift
+- [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
+- [MLX Swift Examples](https://github.com/ml-explore/mlx-swift-examples): Examples using MLX Swift
+- [mlx-swift-chat](https://github.com/PreternaturalAI/mlx-swift-chat): A multi-platform SwiftUI frontend for running local LLMs with Apple's MLX framework.
