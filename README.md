@@ -36,6 +36,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [🍏 MLX - ResNet 🍏](https://github.com/Aavache/mlx-resnet): ResNet implementation with the MLX, Apple's DL framework.
 - [mlx_stft](https://github.com/nuniz/mlx_stft): Short-Time Fourier Transform (STFT) for MLX (Apple)
 - [PyOllaMx (Ollama + MlX)](https://github.com/kspviswa/pyOllaMx): Your gateway to both Ollama & Apple MlX models
+- [mlx-bench](https://github.com/argmaxinc/mlx-bench): Benchmark MLX Performance across commits
 
 ## Demo
 
