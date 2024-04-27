@@ -23,6 +23,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [mlx-llm](https://github.com/riccardomusmeci/mlx-llm): Large Language Models (LLMs) applications and tools running on Apple Silicon in real-time with Apple MLX.
 - [lightning-whisper-mlx](https://github.com/mustafaaljadery/lightning-whisper-mlx): An incredibly fast implementation of Whisper optimized for Apple Silicon.
 - [mlx-benchmark](https://github.com/TristanBilot/mlx-benchmark): Benchmark of Apple MLX operations on all Apple Silicon chips (GPU, CPU) + MPS and CUDA.
+- [MLX-VLM](https://github.com/Blaizzy/mlx-vlm): MLX-VLM is a package for running Vision LLMs locally on your Mac using MLX.
 
 ## Demo
 
