@@ -51,6 +51,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [MLX Chat](https://github.com/da-z/mlx-ui): A simple UI / Web / Frontend for MLX mlx-lm using Streamlit.
 - [SiLLM-examples](https://github.com/armbues/SiLLM-examples): Examples for using SiLLM
 - [PyOMlx](https://github.com/kspviswa/PyOMlx): A wannabe Ollama equivalent for Apple MlX models
+- [MLX Community Projects](https://github.com/ml-explore/mlx/discussions/654): Let's collect some cool MLX integrations and community lead projects here for visibility!
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
