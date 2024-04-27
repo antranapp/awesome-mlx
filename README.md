@@ -49,6 +49,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [MLX Demos](https://github.com/RAHB-REALTORS-Association/mlx-demos): Explore machine learning techniques with Gradio interfaces for Stable Diffusion image generation and LoRA text generation with the Apple MLX framework.
 - [MLX Chat](https://github.com/da-z/mlx-ui): A simple UI / Web / Frontend for MLX mlx-lm using Streamlit.
 - [SiLLM-examples](https://github.com/armbues/SiLLM-examples): Examples for using SiLLM
+- [PyOMlx](https://github.com/kspviswa/PyOMlx): A wannabe Ollama equivalent for Apple MlX models
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
