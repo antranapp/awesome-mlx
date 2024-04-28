@@ -17,6 +17,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 
 - [Models on HuggingFace](https://huggingface.co/mlx-community)
 - [Using MLX at Hugging Face](https://huggingface.co/docs/hub/en/mlx)
+- [llama-3-8B-Instruct-function-calling](https://huggingface.co/mzbac/llama-3-8B-Instruct-function-calling): This model is fine-tuned based on Meta-Llama/Meta-Llama-3-8B instructions via mlx-lm.
 
 ## Libraries and Tools
 
@@ -37,6 +38,9 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [mlx_stft](https://github.com/nuniz/mlx_stft): Short-Time Fourier Transform (STFT) for MLX (Apple)
 - [PyOllaMx (Ollama + MlX)](https://github.com/kspviswa/pyOllaMx): Your gateway to both Ollama & Apple MlX models
 - [mlx-bench](https://github.com/argmaxinc/mlx-bench): Benchmark MLX Performance across commits
+- [mlx-image](https://github.com/riccardomusmeci/mlx-image): mlx image models for Apple Silicon machines
+- [mlx-local-server](https://github.com/Doriandarko/mlx-local-server): A tiny server to run local inference on MLX model in the style of OpenAI
+- [AutoMLX](https://github.com/wsvn53/AutoMLX): An easy-to-use LLMs inference tool for quickly loading models accelerated by the Apple MLX framework on Mac devices, and providing a simple and compatible API interface for integration with other LLMs tools.
 
 ## Demo
 
@@ -52,6 +56,9 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [SiLLM-examples](https://github.com/armbues/SiLLM-examples): Examples for using SiLLM
 - [PyOMlx](https://github.com/kspviswa/PyOMlx): A wannabe Ollama equivalent for Apple MlX models
 - [MLX Community Projects](https://github.com/ml-explore/mlx/discussions/654): Let's collect some cool MLX integrations and community lead projects here for visibility!
+- [nanoGPT_mlx](https://github.com/vithursant/nanoGPT_mlx): Port of Andrej Karpathy's nanoGPT to Apple MLX framework.
+- [Autogram](https://github.com/ivanfioravanti/autogram): Grammar checker with a keyboard shortcut for Ollama and Apple MLX with Automator on macOS.
+- [MLX RAG](https://github.com/AbeEstrada/mlx-rag): Retrieval Augmented Generation (RAG) example using Langchain (loader), Chroma (vector database), Hugging Face sentence-transformers (embeddings) and MLX (LLM).
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
