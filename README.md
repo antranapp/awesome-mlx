@@ -58,6 +58,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [nanoGPT_mlx](https://github.com/vithursant/nanoGPT_mlx): Port of Andrej Karpathy's nanoGPT to Apple MLX framework.
 - [Autogram](https://github.com/ivanfioravanti/autogram): Grammar checker with a keyboard shortcut for Ollama and Apple MLX with Automator on macOS.
 - [MLX RAG](https://github.com/AbeEstrada/mlx-rag): Retrieval Augmented Generation (RAG) example using Langchain (loader), Chroma (vector database), Hugging Face sentence-transformers (embeddings) and MLX (LLM).
+- [mflux](https://github.com/filipstrand/mflux): Run the powerful FLUX models from Black Forest Labs locally on your Mac!
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
