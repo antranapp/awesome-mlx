@@ -66,3 +66,4 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [mlx-swift-chat](https://github.com/PreternaturalAI/mlx-swift-chat): A multi-platform SwiftUI frontend for running local LLMs with Apple's MLX framework.
 - [ChatMLX](https://github.com/maiqingqiang/ChatMLX): ChatMLX is a large model real-time conversation app implemented using MLX
 - [Ph3iOSOnDeviceChatApp](https://inkysquid4.gumroad.com/l/lghejp): Source code to run Microsoft's Phi 3 Min 4K model completely on device
+- [fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios): fullmoon is an iOS app to chat with local large language models that’s optimized for Apple silicon and works on iPhone, iPad, and Mac. your chat history is saved locally, and you can customize the appearance of the app.
