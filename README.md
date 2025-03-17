@@ -45,6 +45,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 
 ## Demo
 
+- [flux-generator](https://github.com/voipnuggets/flux-generator): Flux Generatoe is a high-performance macOS web application that enabled local image generation using Blackforest Flux models (Schnell/Dev) and Stable Diffusion (sdxl-turbo/stable-diffusion-2-1) and musci generation using facebook/musicgen. It also provides an API for image generation compatable with third party applications like open-webui.
 - [mlx-chat-app](https://github.com/mlx-chat/mlx-chat-app): Chat with MLX is a high-performance macOS application that connects your local documents to a personalized large language model (LLM).
 - [photo-similarity-search](https://github.com/harperreed/photo-similarity-search): Super simple MLX (apple silicon) CLIP based photo similarity web app
 - [Video Summarization](https://github.com/Peter-obi/Video_summarization_mlx): Transcribe and summarize videos using whisper and llms on apple mlx framework
