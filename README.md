@@ -70,3 +70,4 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [ChatMLX](https://github.com/maiqingqiang/ChatMLX): ChatMLX is a large model real-time conversation app implemented using MLX
 - [Ph3iOSOnDeviceChatApp](https://inkysquid4.gumroad.com/l/lghejp): Source code to run Microsoft's Phi 3 Min 4K model completely on device
 - [fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios): fullmoon is an iOS app to chat with local large language models that’s optimized for Apple silicon and works on iPhone, iPad, and Mac. your chat history is saved locally, and you can customize the appearance of the app.
+- [asiai](https://github.com/druide67/asiai): Multi-engine LLM benchmark & monitoring CLI for Apple Silicon. Compare MLX engines (LM Studio, mlx-lm, oMLX) against llama.cpp (Ollama) — tok/s, TTFT, power efficiency. Web dashboard and MCP server included.
