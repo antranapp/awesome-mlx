@@ -43,6 +43,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [AutoMLX](https://github.com/wsvn53/AutoMLX): An easy-to-use LLMs inference tool for quickly loading models accelerated by the Apple MLX framework on Mac devices, and providing a simple and compatible API interface for integration with other LLMs tools.
 - [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server): MLX Omni Server is a local inference server powered by Apple's MLX framework, specifically designed for Apple Silicon (M-series) chips. It implements OpenAI-compatible API endpoints, enabling seamless integration with existing OpenAI SDK clients while leveraging the power of local ML inference.
 - [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX): OpenAI-compatible LLM inference server for Apple Silicon. 2-4x faster than Ollama with full tool calling, reasoning separation, and prompt caching.
+- [docker_mlx_cpp](https://github.com/RobotFlow-Labs/docker_mlx_cpp): The NVIDIA Container Toolkit for Mac. Give any Docker container full Apple Silicon Metal GPU access — 100+ GPU operations, LLM inference, training, image gen, audio, embeddings. One-line install.
 
 ## Demo
 
