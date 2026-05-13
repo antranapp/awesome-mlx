@@ -68,6 +68,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
 - [MLX Swift Examples](https://github.com/ml-explore/mlx-swift-examples): Examples using MLX Swift
+- [PrivateFoundationModels](https://github.com/john-rocky/PrivateFoundationModels): Drop-in API-compatible mirror of Apple's FoundationModels framework on iOS 18+. Routes `LanguageModelSession.respond(...)` to MLX-Swift (`mlx-community/*` LLMs + VLMs) via `PrivateFoundationModelsMLX`, or to CoreML / Apple's native FM on iOS 26+.
 - [mlx-swift-chat](https://github.com/PreternaturalAI/mlx-swift-chat): A multi-platform SwiftUI frontend for running local LLMs with Apple's MLX framework.
 - [ChatMLX](https://github.com/maiqingqiang/ChatMLX): ChatMLX is a large model real-time conversation app implemented using MLX
 - [Ph3iOSOnDeviceChatApp](https://inkysquid4.gumroad.com/l/lghejp): Source code to run Microsoft's Phi 3 Min 4K model completely on device
