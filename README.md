@@ -47,6 +47,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [docker_mlx_cpp](https://github.com/RobotFlow-Labs/docker_mlx_cpp) - The NVIDIA Container Toolkit for Mac. Give any Docker container full Metal GPU access. 107+ GPU operations via MLX.
 - [mlx-teacache](https://github.com/IonDen/mlx-teacache): TeaCache step-skipping wrapper for mflux FLUX models on Apple Silicon, with per-variant benchmark notes.
 - [mlx-taef](https://github.com/IonDen/mlx-taef): TAESD/TAEF tiny autoencoders in MLX for fast diffusion latent previews and low-memory decode on Apple Silicon.
+- [mlx-sparse](https://github.com/waleed-sh/mlx-sparse): Sparse array containers, primitives and linear algebra for MLX.
 
 ## Demo
 
