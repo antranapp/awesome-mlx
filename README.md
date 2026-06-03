@@ -45,6 +45,8 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX): OpenAI-compatible LLM inference server for Apple Silicon. 2-4x faster than Ollama with full tool calling, reasoning separation, and prompt caching.
 
 - [docker_mlx_cpp](https://github.com/RobotFlow-Labs/docker_mlx_cpp) - The NVIDIA Container Toolkit for Mac. Give any Docker container full Metal GPU access. 107+ GPU operations via MLX.
+- [mlx-teacache](https://github.com/IonDen/mlx-teacache): TeaCache step-skipping wrapper for mflux FLUX models on Apple Silicon, with per-variant benchmark notes.
+- [mlx-taef](https://github.com/IonDen/mlx-taef): TAESD/TAEF tiny autoencoders in MLX for fast diffusion latent previews and low-memory decode on Apple Silicon.
 
 ## Demo
 
