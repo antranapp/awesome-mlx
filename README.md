@@ -48,6 +48,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [mlx-teacache](https://github.com/IonDen/mlx-teacache): TeaCache step-skipping wrapper for mflux FLUX models on Apple Silicon, with per-variant benchmark notes.
 - [mlx-taef](https://github.com/IonDen/mlx-taef): TAESD/TAEF tiny autoencoders in MLX for fast diffusion latent previews and low-memory decode on Apple Silicon.
 - [mlx-sparse](https://github.com/waleed-sh/mlx-sparse): Sparse array containers, primitives and linear algebra for MLX.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agent wallets on Solana. Verify agent identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Demo
 
