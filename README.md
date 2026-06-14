@@ -49,6 +49,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [mlx-teacache](https://github.com/IonDen/mlx-teacache): TeaCache step-skipping wrapper for mflux FLUX models on Apple Silicon, with per-variant benchmark notes.
 - [mlx-taef](https://github.com/IonDen/mlx-taef): TAESD/TAEF tiny autoencoders in MLX for fast diffusion latent previews and low-memory decode on Apple Silicon.
 - [mlx-sparse](https://github.com/waleed-sh/mlx-sparse): Sparse array containers, primitives and linear algebra for MLX.
+- [MacProvider](https://github.com/Augustas11/macprovider): Coordinator + gateway that turns any Apple Silicon Mac into a remote-addressable mlx-lm endpoint. OpenAI-compatible API, outbound-WebSocket provider daemon (no port-forwarding), and signed receipts binding (prompt, output, provider) for verifiable inference.
 
 ## Demo
 
