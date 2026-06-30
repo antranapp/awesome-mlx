@@ -70,6 +70,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [Autogram](https://github.com/ivanfioravanti/autogram): Grammar checker with a keyboard shortcut for Ollama and Apple MLX with Automator on macOS.
 - [MLX RAG](https://github.com/AbeEstrada/mlx-rag): Retrieval Augmented Generation (RAG) example using Langchain (loader), Chroma (vector database), Hugging Face sentence-transformers (embeddings) and MLX (LLM).
 - [mflux](https://github.com/filipstrand/mflux): Run the powerful FLUX models from Black Forest Labs locally on your Mac!
+* [Sumika](https://github.com/ngutech21/sumika-chat): Local-first macOS agent for private AI workflows with chat, workspace context, and tool execution, running Gemma models with MLX/MLX Swift.
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
