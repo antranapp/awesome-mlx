@@ -21,6 +21,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 
 ## Libraries and Tools
 
+- [atlas](https://github.com/Matth21/atlas): Measured-cost LLM quantizer — profiles per-block KL sensitivity, then solves (bit-width, group-size) allocation exactly for any RAM budget (`atlas <model> --budget-gb 6`). Ships pre-computed cost tables; runs entirely on-device.
 - [mlxserver](https://www.mlxserver.com/): This Python library is the easist way to begin building on top of Apple's machine learning library, MLX.
 - [mlx-llm](https://github.com/riccardomusmeci/mlx-llm): Large Language Models (LLMs) applications and tools running on Apple Silicon in real-time with Apple MLX.
 - [lightning-whisper-mlx](https://github.com/mustafaaljadery/lightning-whisper-mlx): An incredibly fast implementation of Whisper optimized for Apple Silicon.
