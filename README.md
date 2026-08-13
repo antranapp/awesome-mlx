@@ -30,6 +30,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [mlx-llm-server](https://github.com/mzbac/mlx-llm-server): For inferring and serving local LLMs using the MLX framework
 - [mlx-transformers](https://github.com/ToluClassics/mlx-transformers): MLX Transformers is a library that provides model implementation in MLX. It uses a similar model interface as HuggingFace Transformers and provides a way to load and run models in Apple Silicon devices.
 - [mlxcli](https://github.com/mustafaaljadery/mlxcli): Run large models from the terminal using Apple MLX.
+- [MFlux](https://github.com/mflux-community/mflux):  MLX native implementations of state-of-the-art generative image & video models
 - [SiLLM](https://github.com/armbues/SiLLM): SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 - [MLX_CLIP 📚🤖](https://github.com/harperreed/mlx_clip): A simple package to use CLIP on apple silicon using the MLX libraries from Apple
 - [outlinesmlx](https://github.com/sacha-ichbiah/outlines-mlx): A fast minimalistic implementation of guided generation on Apple Silicon using Outlines and MLX
@@ -55,6 +56,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 
 ## Demo
 
+- [MFlux](https://github.com/mflux-community/mflux):  MLX native implementations of state-of-the-art generative image & video models
 - [flux-generator](https://github.com/voipnuggets/flux-generator): Flux Generatoe is a high-performance macOS web application that enabled local image generation using Blackforest Flux models (Schnell/Dev) and Stable Diffusion (sdxl-turbo/stable-diffusion-2-1) and musci generation using facebook/musicgen. It also provides an API for image generation compatable with third party applications like open-webui.
 - [mlx-chat-app](https://github.com/mlx-chat/mlx-chat-app): Chat with MLX is a high-performance macOS application that connects your local documents to a personalized large language model (LLM).
 - [photo-similarity-search](https://github.com/harperreed/photo-similarity-search): Super simple MLX (apple silicon) CLIP based photo similarity web app
@@ -70,7 +72,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [nanoGPT_mlx](https://github.com/vithursant/nanoGPT_mlx): Port of Andrej Karpathy's nanoGPT to Apple MLX framework.
 - [Autogram](https://github.com/ivanfioravanti/autogram): Grammar checker with a keyboard shortcut for Ollama and Apple MLX with Automator on macOS.
 - [MLX RAG](https://github.com/AbeEstrada/mlx-rag): Retrieval Augmented Generation (RAG) example using Langchain (loader), Chroma (vector database), Hugging Face sentence-transformers (embeddings) and MLX (LLM).
-- [mflux](https://github.com/filipstrand/mflux): Run the powerful FLUX models from Black Forest Labs locally on your Mac!
+
 * [Sumika](https://github.com/ngutech21/sumika-chat): Local-first macOS agent for private AI workflows with chat, workspace context, and tool execution, running Gemma models with MLX/MLX Swift.
 
 ## MLX Swift
