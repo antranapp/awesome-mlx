@@ -48,6 +48,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [PostTrainLLM](https://github.com/PostTrainLLM/posttrainllm): Mac-local factory for post-training, evaluating, and packaging specialist LLMs with MLX and evidence-backed evaluation gates.
 - [mlx-local-server](https://github.com/Ar9av/mlx-lm-server): OpenAI-compatible inference servers for Apple Silicon built in Rust — covers LLM (chat, embeddings, vision, LoRA, fine-tuning), image generation (FLUX.2-klein, 9s/image), and audio (TTS, STT, source separation). 8MB idle RAM, 16ms cold start.
 - [mlx-serve](https://github.com/ddalcu/mlx-serve): Native Zig inference server for Apple Silicon. OpenAI- and Anthropic-compatible APIs (works with Claude Code), runs both MLX and GGUF models, with speculative decoding and KV-cache quantization. Ships MLX Core, a macOS menu-bar app with chat, agent mode, and tool calling.
+- [Higgs](https://github.com/panbanda/higgs): Rust inference server for Apple Silicon. Runs MLX models behind OpenAI- and Anthropic-compatible APIs, routes requests to remote providers, and includes a terminal dashboard and a desktop app with per-request tracing.
 
 - [docker_mlx_cpp](https://github.com/RobotFlow-Labs/docker_mlx_cpp) - The NVIDIA Container Toolkit for Mac. Give any Docker container full Metal GPU access. 107+ GPU operations via MLX.
 - [mlx-teacache](https://github.com/IonDen/mlx-teacache): TeaCache step-skipping wrapper for mflux FLUX models on Apple Silicon, with per-variant benchmark notes.
