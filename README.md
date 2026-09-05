@@ -55,6 +55,8 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [mlx-sparse](https://github.com/waleed-sh/mlx-sparse): Sparse array containers, primitives and linear algebra for MLX.
 - [MacProvider](https://github.com/Augustas11/macprovider): Coordinator + gateway that turns any Apple Silicon Mac into a remote-addressable mlx-lm endpoint. OpenAI-compatible API, outbound-WebSocket provider daemon (no port-forwarding), and signed receipts binding (prompt, output, provider) for verifiable inference.
 
+- [mlx-smolvla](https://github.com/daniiarabdiev/mlx-smolvla): SmolVLA on Apple Silicon with an MLX-native runtime for checkpoint inference, LeRobot-protocol serving, preview LoRA training, and PyTorch parity gates.
+
 ## Demo
 
 - [MFlux](https://github.com/mflux-community/mflux):  MLX native implementations of state-of-the-art generative image & video models
