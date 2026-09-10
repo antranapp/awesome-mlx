@@ -22,38 +22,38 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 ## Libraries and Tools
 
 - [atlas](https://github.com/Matth21/atlas): Measured-cost LLM quantizer — profiles per-block KL sensitivity, then solves (bit-width, group-size) allocation exactly for any RAM budget (`atlas <model> --budget-gb 6`). Ships pre-computed cost tables; runs entirely on-device.
-- [mlxserver](https://www.mlxserver.com/): This Python library is the easist way to begin building on top of Apple's machine learning library, MLX.
-- [mlx-llm](https://github.com/riccardomusmeci/mlx-llm): Large Language Models (LLMs) applications and tools running on Apple Silicon in real-time with Apple MLX.
-- [lightning-whisper-mlx](https://github.com/mustafaaljadery/lightning-whisper-mlx): An incredibly fast implementation of Whisper optimized for Apple Silicon.
-- [mlx-benchmark](https://github.com/TristanBilot/mlx-benchmark): Benchmark of Apple MLX operations on all Apple Silicon chips (GPU, CPU) + MPS and CUDA.
-- [MLX-VLM](https://github.com/Blaizzy/mlx-vlm): MLX-VLM is a package for running Vision LLMs locally on your Mac using MLX.
-- [mlx-llm-server](https://github.com/mzbac/mlx-llm-server): For inferring and serving local LLMs using the MLX framework
-- [mlx-transformers](https://github.com/ToluClassics/mlx-transformers): MLX Transformers is a library that provides model implementation in MLX. It uses a similar model interface as HuggingFace Transformers and provides a way to load and run models in Apple Silicon devices.
-- [mlxcli](https://github.com/mustafaaljadery/mlxcli): Run large models from the terminal using Apple MLX.
-- [MFlux](https://github.com/mflux-community/mflux):  MLX native implementations of state-of-the-art generative image & video models
-- [SiLLM](https://github.com/armbues/SiLLM): SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
-- [MLX_CLIP 📚🤖](https://github.com/harperreed/mlx_clip): A simple package to use CLIP on apple silicon using the MLX libraries from Apple
-- [outlinesmlx](https://github.com/sacha-ichbiah/outlines-mlx): A fast minimalistic implementation of guided generation on Apple Silicon using Outlines and MLX
-- [mlx-embedding-models](https://github.com/taylorai/mlx_embedding_models): Run text embeddings on your Apple Silicon GPU. Supports any BERT- or RoBERTa-based embedding model, with a curated registry of high-performing models that just work off the shelf.
-- [RLX: Reinforcement Learning with MLX](https://github.com/noahfarr/rlx): https://github.com/noahfarr/rlx
-- [🍏 MLX - ResNet 🍏](https://github.com/Aavache/mlx-resnet): ResNet implementation with the MLX, Apple's DL framework.
-- [mlx_stft](https://github.com/nuniz/mlx_stft): Short-Time Fourier Transform (STFT) for MLX (Apple)
-- [PyOllaMx (Ollama + MlX)](https://github.com/kspviswa/pyOllaMx): Your gateway to both Ollama & Apple MlX models
-- [mlx-bench](https://github.com/argmaxinc/mlx-bench): Benchmark MLX Performance across commits
-- [mlx-image](https://github.com/riccardomusmeci/mlx-image): mlx image models for Apple Silicon machines
-- [mlx-local-server](https://github.com/Doriandarko/mlx-local-server): A tiny server to run local inference on MLX model in the style of OpenAI
 - [AutoMLX](https://github.com/wsvn53/AutoMLX): An easy-to-use LLMs inference tool for quickly loading models accelerated by the Apple MLX framework on Mac devices, and providing a simple and compatible API interface for integration with other LLMs tools.
-- [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server): MLX Omni Server is a local inference server powered by Apple's MLX framework, specifically designed for Apple Silicon (M-series) chips. It implements OpenAI-compatible API endpoints, enabling seamless integration with existing OpenAI SDK clients while leveraging the power of local ML inference.
-- [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX): OpenAI-compatible LLM inference server for Apple Silicon. 2-4x faster than Ollama with full tool calling, reasoning separation, and prompt caching.
-- [PostTrainLLM](https://github.com/PostTrainLLM/posttrainllm): Mac-local factory for post-training, evaluating, and packaging specialist LLMs with MLX and evidence-backed evaluation gates.
-- [mlx-local-server](https://github.com/Ar9av/mlx-lm-server): OpenAI-compatible inference servers for Apple Silicon built in Rust — covers LLM (chat, embeddings, vision, LoRA, fine-tuning), image generation (FLUX.2-klein, 9s/image), and audio (TTS, STT, source separation). 8MB idle RAM, 16ms cold start.
-- [mlx-serve](https://github.com/ddalcu/mlx-serve): Native Zig inference server for Apple Silicon. OpenAI- and Anthropic-compatible APIs (works with Claude Code), runs both MLX and GGUF models, with speculative decoding and KV-cache quantization. Ships MLX Core, a macOS menu-bar app with chat, agent mode, and tool calling.
-
 - [docker_mlx_cpp](https://github.com/RobotFlow-Labs/docker_mlx_cpp) - The NVIDIA Container Toolkit for Mac. Give any Docker container full Metal GPU access. 107+ GPU operations via MLX.
-- [mlx-teacache](https://github.com/IonDen/mlx-teacache): TeaCache step-skipping wrapper for mflux FLUX models on Apple Silicon, with per-variant benchmark notes.
-- [mlx-taef](https://github.com/IonDen/mlx-taef): TAESD/TAEF tiny autoencoders in MLX for fast diffusion latent previews and low-memory decode on Apple Silicon.
-- [mlx-sparse](https://github.com/waleed-sh/mlx-sparse): Sparse array containers, primitives and linear algebra for MLX.
+- [lightning-whisper-mlx](https://github.com/mustafaaljadery/lightning-whisper-mlx): An incredibly fast implementation of Whisper optimized for Apple Silicon.
 - [MacProvider](https://github.com/Augustas11/macprovider): Coordinator + gateway that turns any Apple Silicon Mac into a remote-addressable mlx-lm endpoint. OpenAI-compatible API, outbound-WebSocket provider daemon (no port-forwarding), and signed receipts binding (prompt, output, provider) for verifiable inference.
+- [MFlux](https://github.com/mflux-community/mflux):  MLX native implementations of state-of-the-art generative image & video models
+- [mlx-bench](https://github.com/argmaxinc/mlx-bench): Benchmark MLX Performance across commits
+- [mlx-benchmark](https://github.com/TristanBilot/mlx-benchmark): Benchmark of Apple MLX operations on all Apple Silicon chips (GPU, CPU) + MPS and CUDA.
+- [mlx-embedding-models](https://github.com/taylorai/mlx_embedding_models): Run text embeddings on your Apple Silicon GPU. Supports any BERT- or RoBERTa-based embedding model, with a curated registry of high-performing models that just work off the shelf.
+- [mlx-image](https://github.com/riccardomusmeci/mlx-image): mlx image models for Apple Silicon machines
+- [mlx-llm](https://github.com/riccardomusmeci/mlx-llm): Large Language Models (LLMs) applications and tools running on Apple Silicon in real-time with Apple MLX.
+- [mlx-llm-server](https://github.com/mzbac/mlx-llm-server): For inferring and serving local LLMs using the MLX framework
+- [mlx-local-server](https://github.com/Doriandarko/mlx-local-server): A tiny server to run local inference on MLX model in the style of OpenAI
+- [mlx-local-server](https://github.com/Ar9av/mlx-lm-server): OpenAI-compatible inference servers for Apple Silicon built in Rust — covers LLM (chat, embeddings, vision, LoRA, fine-tuning), image generation (FLUX.2-klein, 9s/image), and audio (TTS, STT, source separation). 8MB idle RAM, 16ms cold start.
+- [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server): MLX Omni Server is a local inference server powered by Apple's MLX framework, specifically designed for Apple Silicon (M-series) chips. It implements OpenAI-compatible API endpoints, enabling seamless integration with existing OpenAI SDK clients while leveraging the power of local ML inference.
+- [mlx-serve](https://github.com/ddalcu/mlx-serve): Native Zig inference server for Apple Silicon. OpenAI- and Anthropic-compatible APIs (works with Claude Code), runs both MLX and GGUF models, with speculative decoding and KV-cache quantization. Ships MLX Core, a macOS menu-bar app with chat, agent mode, and tool calling.
+- [mlx-sparse](https://github.com/waleed-sh/mlx-sparse): Sparse array containers, primitives and linear algebra for MLX.
+- [mlx-taef](https://github.com/IonDen/mlx-taef): TAESD/TAEF tiny autoencoders in MLX for fast diffusion latent previews and low-memory decode on Apple Silicon.
+- [mlx-teacache](https://github.com/IonDen/mlx-teacache): TeaCache step-skipping wrapper for mflux FLUX models on Apple Silicon, with per-variant benchmark notes.
+- [mlx-transformers](https://github.com/ToluClassics/mlx-transformers): MLX Transformers is a library that provides model implementation in MLX. It uses a similar model interface as HuggingFace Transformers and provides a way to load and run models in Apple Silicon devices.
+- [MLX-VLM](https://github.com/Blaizzy/mlx-vlm): MLX-VLM is a package for running Vision LLMs locally on your Mac using MLX.
+- [MLX_CLIP 📚🤖](https://github.com/harperreed/mlx_clip): A simple package to use CLIP on apple silicon using the MLX libraries from Apple
+- [mlx_stft](https://github.com/nuniz/mlx_stft): Short-Time Fourier Transform (STFT) for MLX (Apple)
+- [mlxcli](https://github.com/mustafaaljadery/mlxcli): Run large models from the terminal using Apple MLX.
+- [mlxserver](https://www.mlxserver.com/): This Python library is the easist way to begin building on top of Apple's machine learning library, MLX.
+- [Ollama Herd](https://github.com/geeks-accelerator/ollama-herd): Routes LLM, image, speech-to-text and embedding requests across a fleet of Macs. Runs `mlx_lm.server` as a first-class backend alongside Ollama, auto-discovers nodes over mDNS, and picks a node by memory fit, thermal state, queue depth and which models are already loaded.
+- [outlinesmlx](https://github.com/sacha-ichbiah/outlines-mlx): A fast minimalistic implementation of guided generation on Apple Silicon using Outlines and MLX
+- [PostTrainLLM](https://github.com/PostTrainLLM/posttrainllm): Mac-local factory for post-training, evaluating, and packaging specialist LLMs with MLX and evidence-backed evaluation gates.
+- [PyOllaMx (Ollama + MlX)](https://github.com/kspviswa/pyOllaMx): Your gateway to both Ollama & Apple MlX models
+- [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX): OpenAI-compatible LLM inference server for Apple Silicon. 2-4x faster than Ollama with full tool calling, reasoning separation, and prompt caching.
+- [RLX: Reinforcement Learning with MLX](https://github.com/noahfarr/rlx): https://github.com/noahfarr/rlx
+- [SiLLM](https://github.com/armbues/SiLLM): SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
+- [🍏 MLX - ResNet 🍏](https://github.com/Aavache/mlx-resnet): ResNet implementation with the MLX, Apple's DL framework.
 
 - [mlx-smolvla](https://github.com/daniiarabdiev/mlx-smolvla): SmolVLA on Apple Silicon with an MLX-native runtime for checkpoint inference, LeRobot-protocol serving, preview LoRA training, and PyTorch parity gates.
 
