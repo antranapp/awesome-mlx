@@ -57,6 +57,8 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [MacProvider](https://github.com/Augustas11/macprovider): Coordinator + gateway that turns any Apple Silicon Mac into a remote-addressable mlx-lm endpoint. OpenAI-compatible API, outbound-WebSocket provider daemon (no port-forwarding), and signed receipts binding (prompt, output, provider) for verifiable inference.
 
 - [mlx-smolvla](https://github.com/daniiarabdiev/mlx-smolvla): SmolVLA on Apple Silicon with an MLX-native runtime for checkpoint inference, LeRobot-protocol serving, preview LoRA training, and PyTorch parity gates.
+- [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): MLX-native local server that speaks the Anthropic Messages API, so Claude Code runs fully on-device on Apple Silicon. Includes tool-call parsing for Qwen, Gemma, Hermes and other open models.
+- [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx): Pure MLX runtime for NVIDIA Nemotron Omni (text, vision and audio) on Apple Silicon, with parity tests against NVIDIA's PyTorch reference.
 
 ## Demo
 
@@ -78,6 +80,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [MLX RAG](https://github.com/AbeEstrada/mlx-rag): Retrieval Augmented Generation (RAG) example using Langchain (loader), Chroma (vector database), Hugging Face sentence-transformers (embeddings) and MLX (LLM).
 
 * [Sumika](https://github.com/ngutech21/sumika-chat): Local-first macOS agent for private AI workflows with chat, workspace context, and tool execution, running Gemma models with MLX/MLX Swift.
+* [browser-agent](https://github.com/nicedreamzapp/browser-agent): Local agent that drives a real browser over the Chrome DevTools Protocol using MLX models on Apple Silicon, no cloud APIs.
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
