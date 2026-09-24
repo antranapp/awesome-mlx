@@ -59,6 +59,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [mlx-smolvla](https://github.com/daniiarabdiev/mlx-smolvla): SmolVLA on Apple Silicon with an MLX-native runtime for checkpoint inference, LeRobot-protocol serving, preview LoRA training, and PyTorch parity gates.
 - [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): MLX-native local server that speaks the Anthropic Messages API, so Claude Code runs fully on-device on Apple Silicon. Includes tool-call parsing for Qwen, Gemma, Hermes and other open models.
 - [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx): Pure MLX runtime for NVIDIA Nemotron Omni (text, vision and audio) on Apple Silicon, with parity tests against NVIDIA's PyTorch reference.
+- [JuL](https://github.com/usejul/jul): Typed decisions (choice, yes/no, score) read from the hidden states of a local LLM on MLX, without generating a token. Also runs on PyTorch.
 
 ## Demo
 
