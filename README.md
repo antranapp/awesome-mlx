@@ -10,7 +10,6 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [A Deep Dive into Apple’s Machine Learning Framework (MLX) — Step by Step Introduction](https://medium.com/@dynotes/a-deep-dive-into-apples-machine-learning-framework-mlx-step-by-step-introduction-d00681e56de2)
 - [Deploying LLMs locally with Apple’s MLX framework](https://towardsdatascience.com/deploying-llms-locally-with-apples-mlx-framework-2b3862049a93)
 - [MLX Tutorial: Apple's Bold Move in Machine Learning Arena!](https://www.youtube.com/watch?v=DIpv7CQloSk) 
-- [Deep Dive into AI with MLX and PyTorch](https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch): "Deep Dive into AI with MLX and PyTorch" is an educational initiative designed to help anyone interested in AI, specifically in machine learning and deep learning, using Apple's MLX and Meta's PyTorch frameworks.
 - [Notes on the Apple MLX machine learning framework](https://github.com/uogbuji/mlx-notes): Shared personal notes created while working with the Apple MLX machine learning framework
 
 ## Models
@@ -31,7 +30,6 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [mlx-transformers](https://github.com/ToluClassics/mlx-transformers): MLX Transformers is a library that provides model implementation in MLX. It uses a similar model interface as HuggingFace Transformers and provides a way to load and run models in Apple Silicon devices.
 - [mlxcli](https://github.com/mustafaaljadery/mlxcli): Run large models from the terminal using Apple MLX.
 - [MFlux](https://github.com/mflux-community/mflux):  MLX native implementations of state-of-the-art generative image & video models
-- [SiLLM](https://github.com/armbues/SiLLM): SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 - [MLX_CLIP 📚🤖](https://github.com/harperreed/mlx_clip): A simple package to use CLIP on apple silicon using the MLX libraries from Apple
 - [outlinesmlx](https://github.com/sacha-ichbiah/outlines-mlx): A fast minimalistic implementation of guided generation on Apple Silicon using Outlines and MLX
 - [mlx-embedding-models](https://github.com/taylorai/mlx_embedding_models): Run text embeddings on your Apple Silicon GPU. Supports any BERT- or RoBERTa-based embedding model, with a curated registry of high-performing models that just work off the shelf.
@@ -71,8 +69,6 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [MLX RAG With GGUF Model Weights](https://github.com/Jaykef/mlx-rag-gguf): Minimal, clean code implementation of RAG with mlx using gguf model weights
 - [Enhancing Video Analysis with MLX: A Guide](https://github.com/abhishek-ch/mlx-video-qa): Explore the capabilities of the MLX library and leverage the genAI stack on MacOS to interact with any video.
 - [MLX Demos](https://github.com/RAHB-REALTORS-Association/mlx-demos): Explore machine learning techniques with Gradio interfaces for Stable Diffusion image generation and LoRA text generation with the Apple MLX framework.
-- [MLX Chat](https://github.com/da-z/mlx-ui): A simple UI / Web / Frontend for MLX mlx-lm using Streamlit.
-- [SiLLM-examples](https://github.com/armbues/SiLLM-examples): Examples for using SiLLM
 - [PyOMlx](https://github.com/kspviswa/PyOMlx): A wannabe Ollama equivalent for Apple MlX models
 - [MLX Community Projects](https://github.com/ml-explore/mlx/discussions/654): Let's collect some cool MLX integrations and community lead projects here for visibility!
 - [nanoGPT_mlx](https://github.com/vithursant/nanoGPT_mlx): Port of Andrej Karpathy's nanoGPT to Apple MLX framework.
@@ -86,8 +82,8 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
 - [MLX Swift Examples](https://github.com/ml-explore/mlx-swift-examples): Examples using MLX Swift
 - [PrivateFoundationModels](https://github.com/john-rocky/PrivateFoundationModels): Drop-in API-compatible mirror of Apple's FoundationModels framework on iOS 18+. Routes `LanguageModelSession.respond(...)` to MLX-Swift (`mlx-community/*` LLMs + VLMs) via `PrivateFoundationModelsMLX`, or to CoreML / Apple's native FM on iOS 26+.
-- [mlx-swift-chat](https://github.com/PreternaturalAI/mlx-swift-chat): A multi-platform SwiftUI frontend for running local LLMs with Apple's MLX framework.
-- [ChatMLX](https://github.com/maiqingqiang/ChatMLX): ChatMLX is a large model real-time conversation app implemented using MLX
+- [mlx-swift-chat](https://github.com/preternatural-explore/mlx-swift-chat): A multi-platform SwiftUI frontend for running local LLMs with Apple's MLX framework.
+- [ChatMLX](https://github.com/johnmai-dev/ChatMLX): ChatMLX is a large model real-time conversation app implemented using MLX
 - [Ph3iOSOnDeviceChatApp](https://inkysquid4.gumroad.com/l/lghejp): Source code to run Microsoft's Phi 3 Min 4K model completely on device
 - [fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios): fullmoon is an iOS app to chat with local large language models that’s optimized for Apple silicon and works on iPhone, iPad, and Mac. your chat history is saved locally, and you can customize the appearance of the app.
 - [asiai](https://github.com/druide67/asiai): Multi-engine LLM benchmark & monitoring CLI for Apple Silicon. Compare MLX engines (LM Studio, mlx-lm, oMLX) against llama.cpp (Ollama) — tok/s, TTFT, power efficiency. Web dashboard and MCP server included.
