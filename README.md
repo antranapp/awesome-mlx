@@ -77,6 +77,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 
 * [Sumika](https://github.com/ngutech21/sumika-chat): Local-first macOS agent for private AI workflows with chat, workspace context, and tool execution, running Gemma models with MLX/MLX Swift.
 * [browser-agent](https://github.com/nicedreamzapp/browser-agent): Local agent that drives a real browser over the Chrome DevTools Protocol using MLX models on Apple Silicon, no cloud APIs.
+* [Libratory](https://github.com/subev/libratory): Turns PDFs into read-along audiobooks on Apple Silicon; its Bulgarian narrators and the KugelAudio multilingual narrator run on MLX through mlx-audio, one model at a time behind a GPU lock.
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
