@@ -58,6 +58,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): MLX-native local server that speaks the Anthropic Messages API, so Claude Code runs fully on-device on Apple Silicon. Includes tool-call parsing for Qwen, Gemma, Hermes and other open models.
 - [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx): Pure MLX runtime for NVIDIA Nemotron Omni (text, vision and audio) on Apple Silicon, with parity tests against NVIDIA's PyTorch reference.
 - [JuL](https://github.com/usejul/jul): Typed decisions (choice, yes/no, score) read from the hidden states of a local LLM on MLX, without generating a token. Also runs on PyTorch.
+- [Ollama Herd](https://github.com/geeks-accelerator/ollama-herd): Routes LLM, image, speech-to-text and embedding requests across a fleet of Macs. Runs `mlx_lm.server` as a first-class backend alongside Ollama, auto-discovers nodes over mDNS, and picks a node by memory fit, thermal state, queue depth and which models are already loaded.
 
 ## Demo
 
