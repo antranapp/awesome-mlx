@@ -58,6 +58,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): MLX-native local server that speaks the Anthropic Messages API, so Claude Code runs fully on-device on Apple Silicon. Includes tool-call parsing for Qwen, Gemma, Hermes and other open models.
 - [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx): Pure MLX runtime for NVIDIA Nemotron Omni (text, vision and audio) on Apple Silicon, with parity tests against NVIDIA's PyTorch reference.
 - [JuL](https://github.com/usejul/jul): Typed decisions (choice, yes/no, score) read from the hidden states of a local LLM on MLX, without generating a token. Also runs on PyTorch.
+- [mlxtrace](https://github.com/Arthur031221/mlxtrace): MLX training step profiler with power and memory sampling, producing a standalone HTML timeline. Works with hand-written MLX training loops or mlx-lm-lora callbacks.
 
 ## Demo
 
@@ -79,6 +80,8 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 * [Sumika](https://github.com/ngutech21/sumika-chat): Local-first macOS agent for private AI workflows with chat, workspace context, and tool execution, running Gemma models with MLX/MLX Swift.
 * [browser-agent](https://github.com/nicedreamzapp/browser-agent): Local agent that drives a real browser over the Chrome DevTools Protocol using MLX models on Apple Silicon, no cloud APIs.
 * [Libratory](https://github.com/subev/libratory): Turns PDFs into read-along audiobooks on Apple Silicon; its Bulgarian narrators and the KugelAudio multilingual narrator run on MLX through mlx-audio, one model at a time behind a GPU lock.
+* [songforge](https://github.com/Arthur031221/songforge): Local Suno-style song studio for Apple Silicon. Generates full songs with vocals and covers from lyrics using the YuE2-3B model running locally via MLX, no GPU rental or account required.
+* [snipmd](https://github.com/Arthur031221/snipmd): Hotkey a screen region on macOS and get Markdown or LaTeX on the clipboard. Runs the 0.9B GLM-OCR model locally via MLX (or Ollama off Apple Silicon).
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
