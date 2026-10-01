@@ -17,6 +17,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [Models on HuggingFace](https://huggingface.co/mlx-community)
 - [Using MLX at Hugging Face](https://huggingface.co/docs/hub/en/mlx)
 - [llama-3-8B-Instruct-function-calling](https://huggingface.co/mzbac/llama-3-8B-Instruct-function-calling): This model is fine-tuned based on Meta-Llama/Meta-Llama-3-8B instructions via mlx-lm.
+- [Jebadiah](https://huggingface.co/collections/frontier-infra/jebadiah-open-system-one-decision-models-6ab80765ddd3fa0b3eba5213): Apache-2.0 decision models (4B, 9B, 27B) with MLX builds that answer typed choice, yes/no and score questions about JSON state, returning a calibrated probability per option from label-token logits in one forward pass.
 
 ## Libraries and Tools
 
