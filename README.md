@@ -27,6 +27,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [lightning-whisper-mlx](https://github.com/mustafaaljadery/lightning-whisper-mlx): An incredibly fast implementation of Whisper optimized for Apple Silicon.
 - [mlx-benchmark](https://github.com/TristanBilot/mlx-benchmark): Benchmark of Apple MLX operations on all Apple Silicon chips (GPU, CPU) + MPS and CUDA.
 - [MLX-VLM](https://github.com/Blaizzy/mlx-vlm): MLX-VLM is a package for running Vision LLMs locally on your Mac using MLX.
+- [intern-decision-mlx](https://github.com/dex0shubham/intern-decision-mlx): Run Shanghai AI Lab's Intern-Decision vision decision model on Apple Silicon with MLX. Calibrated yes/no, choice and score answers about screenshots, about 0.9 s per 1080p screenshot (downscaled to 1024 px) on an 8 GB M2 MacBook Air.
 - [mlx-llm-server](https://github.com/mzbac/mlx-llm-server): For inferring and serving local LLMs using the MLX framework
 - [mlx-transformers](https://github.com/ToluClassics/mlx-transformers): MLX Transformers is a library that provides model implementation in MLX. It uses a similar model interface as HuggingFace Transformers and provides a way to load and run models in Apple Silicon devices.
 - [mlxcli](https://github.com/mustafaaljadery/mlxcli): Run large models from the terminal using Apple MLX.
