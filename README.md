@@ -62,6 +62,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [JuL](https://github.com/usejul/jul): Typed decisions (choice, yes/no, score) read from the hidden states of a local LLM on MLX, without generating a token. Also runs on PyTorch.
 - [TrainJudge](https://github.com/Himanshukurrey/trainjudge): Diagnoses whether fine-tuning fits a goal, trains LoRA adapters with mlx-lm (or PyTorch on CUDA), and verifies them on held-out task metrics and a general-skills regression suite instead of training loss.
 - [mlxtrace](https://github.com/Arthur031221/mlxtrace): MLX training step profiler with power and memory sampling, producing a standalone HTML timeline. Works with hand-written MLX training loops or mlx-lm-lora callbacks.
+- [decision-tune](https://github.com/decision-tune/decision-tune): A 395M decision model with an MLX backend on Apple silicon. It picks one option from a list, or gives an uncalibrated P(yes) score, with one encoder pass. About 10 ms per short decision.
 
 ## Demo
 
