@@ -40,6 +40,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [RLX: Reinforcement Learning with MLX](https://github.com/noahfarr/rlx): https://github.com/noahfarr/rlx
 - [🍏 MLX - ResNet 🍏](https://github.com/Aavache/mlx-resnet): ResNet implementation with the MLX, Apple's DL framework.
 - [mlx_stft](https://github.com/nuniz/mlx_stft): Short-Time Fourier Transform (STFT) for MLX (Apple)
+- [keras-mlx](https://github.com/keras-team/keras-mlx): MLX backend for Keras 3, so Keras models can train and run on Apple silicon.
 - [PyOllaMx (Ollama + MlX)](https://github.com/kspviswa/pyOllaMx): Your gateway to both Ollama & Apple MlX models
 - [mlx-bench](https://github.com/argmaxinc/mlx-bench): Benchmark MLX Performance across commits
 - [mlx-image](https://github.com/riccardomusmeci/mlx-image): mlx image models for Apple Silicon machines
