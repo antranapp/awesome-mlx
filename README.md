@@ -21,6 +21,8 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 
 ## Libraries and Tools
 
+- [DeeWaanAI Serve](https://github.com/DeeWaanAI/deewaanai-serve) - Open research prototype: pinned-expert MoE serving on MLX. Measured a RAM/model-size concurrency crossover (up to ~2x concurrent users vs llama.cpp) and streams models larger than RAM as a proof of concept. AGPL-3.0.
+
 - [atlas](https://github.com/Matth21/atlas): Measured-cost LLM quantizer — profiles per-block KL sensitivity, then solves (bit-width, group-size) allocation exactly for any RAM budget (`atlas <model> --budget-gb 6`). Ships pre-computed cost tables; runs entirely on-device.
 - [mlxserver](https://www.mlxserver.com/): This Python library is the easist way to begin building on top of Apple's machine learning library, MLX.
 - [mlx-llm](https://github.com/riccardomusmeci/mlx-llm): Large Language Models (LLMs) applications and tools running on Apple Silicon in real-time with Apple MLX.
