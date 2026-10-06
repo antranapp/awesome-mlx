@@ -1,7 +1,5 @@
 # Awesome MLX
 
-- [DeeWaanAI Serve](https://github.com/DeeWaanAI/deewaanai-serve) - Open research prototype: pinned-expert MoE serving on MLX. Measured a RAM/model-size concurrency crossover (up to ~2x concurrent users vs llama.cpp) and streams models larger than RAM as a proof of concept. AGPL-3.0.
-
 An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx) from Apple
 
 ## Articles
@@ -22,6 +20,8 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [Jebadiah](https://huggingface.co/collections/frontier-infra/jebadiah-open-system-one-decision-models-6ab80765ddd3fa0b3eba5213): Apache-2.0 decision models (4B, 9B, 27B) with MLX builds that answer typed choice, yes/no and score questions about JSON state, returning a calibrated probability per option from label-token logits in one forward pass.
 
 ## Libraries and Tools
+
+- [DeeWaanAI Serve](https://github.com/DeeWaanAI/deewaanai-serve) - Open research prototype: pinned-expert MoE serving on MLX. Measured a RAM/model-size concurrency crossover (up to ~2x concurrent users vs llama.cpp) and streams models larger than RAM as a proof of concept. AGPL-3.0.
 
 - [atlas](https://github.com/Matth21/atlas): Measured-cost LLM quantizer — profiles per-block KL sensitivity, then solves (bit-width, group-size) allocation exactly for any RAM budget (`atlas <model> --budget-gb 6`). Ships pre-computed cost tables; runs entirely on-device.
 - [mlxserver](https://www.mlxserver.com/): This Python library is the easist way to begin building on top of Apple's machine learning library, MLX.
