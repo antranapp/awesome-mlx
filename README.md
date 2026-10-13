@@ -4,7 +4,12 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 
 ## Articles
 
+### 2026
+
+- [oMLX on Mac: install, tune and benchmark a local LLM server](https://jacar.es/en/how-to-install-and-tune-omlx-on-m5-max-128-gb/) — M5 Max 128 GB benchmarks and tuning (2026)
+
 ### 2024
+
 - [On-device ML research with MLX and Swift](https://www.swift.org/blog/mlx-swift/)
 - [MLX: On-device machine learning on Apple Silicon](https://antran.app/2024/mlx_getting_started/)
 - [A Deep Dive into Apple’s Machine Learning Framework (MLX) — Step by Step Introduction](https://medium.com/@dynotes/a-deep-dive-into-apples-machine-learning-framework-mlx-step-by-step-introduction-d00681e56de2)
