@@ -66,6 +66,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [TrainJudge](https://github.com/Himanshukurrey/trainjudge): Diagnoses whether fine-tuning fits a goal, trains LoRA adapters with mlx-lm (or PyTorch on CUDA), and verifies them on held-out task metrics and a general-skills regression suite instead of training loss.
 - [mlxtrace](https://github.com/Arthur031221/mlxtrace): MLX training step profiler with power and memory sampling, producing a standalone HTML timeline. Works with hand-written MLX training loops or mlx-lm-lora callbacks.
 - [decision-tune](https://github.com/decision-tune/decision-tune): A 395M decision model with an MLX backend on Apple silicon. It picks one option from a list, or gives an uncalibrated P(yes) score, with one encoder pass. About 10 ms per short decision.
+- [pydecide](https://github.com/gopaljigaur/decide): One Python client for typed decisions (choice, score, yes/no) that runs the laya-mlx checkpoints on Apple Silicon first and calls a hosted model only when the local one errors or answers below a confidence threshold, with the backend that answered recorded on every response.
 
 ## Demo
 
@@ -106,3 +107,4 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [Quail](https://github.com/adatoo/quail): Menu bar app for Apple Silicon that serves GGUF (llama.cpp) and MLX (MLX Swift) models from one folder behind OpenAI- and Anthropic-compatible APIs, so Claude Code, Codex, Continue and Open WebUI connect to it. Native Swift, no Python. (MIT)
 - [Outmake](https://outmake.app): Free Mac app that runs local models for chat, pictures, video, voices and dictation. Its voices (Qwen3-TTS and others from Hugging Face) run on MLX Swift through mlx-audio-swift.
 - [mlx-agent](https://github.com/cavi-ai/mlx-agent): Discover, verify, and wire local MLX-optimized models on Apple Silicon with coding-agent adapters (Claude Code, Codex, Antigravity) and AgentSkill.
+- [mlx-workbench](https://github.com/cavi-ai/mlx-workbench): Local web and SwiftUI UI for the MLX model lifecycle on Apple Silicon (scan, convert, benchmark, serve).
