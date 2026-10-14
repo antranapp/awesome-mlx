@@ -91,6 +91,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 * [songforge](https://github.com/Arthur031221/songforge): Local Suno-style song studio for Apple Silicon. Generates full songs with vocals and covers from lyrics using the YuE2-3B model running locally via MLX, no GPU rental or account required.
 * [snipmd](https://github.com/Arthur031221/snipmd): Hotkey a screen region on macOS and get Markdown or LaTeX on the clipboard. Runs the 0.9B GLM-OCR model locally via MLX (or Ollama off Apple Silicon).
 * [ThunderTalk](https://github.com/realAllenSong/ThunderTalk): Local voice toolkit for macOS. Hotkey dictation in any app (Qwen3-ASR and MOSS-Transcribe-Diarize on MLX), file transcription with speaker labels, and text-to-speech with voice cloning (VoxCPM2 through mlx-audio and IndexTTS-2.5 on MLX). Chinese, English and mixed speech, fully on-device.
+* [Just Think](https://github.com/pragyaangaur/Just-Think): A preregistered boredom study that steers Qwen 2.5 7B's residual stream on a 4-bit MLX model, running under 8 GB on a 16 GB Apple Silicon Mac.
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
