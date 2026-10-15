@@ -91,6 +91,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 * [songforge](https://github.com/Arthur031221/songforge): Local Suno-style song studio for Apple Silicon. Generates full songs with vocals and covers from lyrics using the YuE2-3B model running locally via MLX, no GPU rental or account required.
 * [snipmd](https://github.com/Arthur031221/snipmd): Hotkey a screen region on macOS and get Markdown or LaTeX on the clipboard. Runs the 0.9B GLM-OCR model locally via MLX (or Ollama off Apple Silicon).
 * [ThunderTalk](https://github.com/realAllenSong/ThunderTalk): Local voice toolkit for macOS. Hotkey dictation in any app (Qwen3-ASR and MOSS-Transcribe-Diarize on MLX), file transcription with speaker labels, and text-to-speech with voice cloning (VoxCPM2 through mlx-audio and IndexTTS-2.5 on MLX). Chinese, English and mixed speech, fully on-device.
+* [Local Transcriber](https://github.com/teconomix/local-transcriber): macOS menu bar app that records meetings and calls and transcribes them locally with Whisper large-v3-turbo on MLX, with pyannote speaker recognition, dictation into any app, a CLI and an MCP server. (MIT)
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
