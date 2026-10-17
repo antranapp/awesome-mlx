@@ -4,7 +4,12 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 
 ## Articles
 
+### 2026
+
+- [oMLX on Mac: install, tune and benchmark a local LLM server](https://jacar.es/en/how-to-install-and-tune-omlx-on-m5-max-128-gb/) — M5 Max 128 GB benchmarks and tuning (2026)
+
 ### 2024
+
 - [On-device ML research with MLX and Swift](https://www.swift.org/blog/mlx-swift/)
 - [MLX: On-device machine learning on Apple Silicon](https://antran.app/2024/mlx_getting_started/)
 - [A Deep Dive into Apple’s Machine Learning Framework (MLX) — Step by Step Introduction](https://medium.com/@dynotes/a-deep-dive-into-apples-machine-learning-framework-mlx-step-by-step-introduction-d00681e56de2)
@@ -62,6 +67,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [mlx-smolvla](https://github.com/daniiarabdiev/mlx-smolvla): SmolVLA on Apple Silicon with an MLX-native runtime for checkpoint inference, LeRobot-protocol serving, preview LoRA training, and PyTorch parity gates.
 - [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): MLX-native local server that speaks the Anthropic Messages API, so Claude Code runs fully on-device on Apple Silicon. Includes tool-call parsing for Qwen, Gemma, Hermes and other open models.
 - [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx): Pure MLX runtime for NVIDIA Nemotron Omni (text, vision and audio) on Apple Silicon, with parity tests against NVIDIA's PyTorch reference.
+- [MLX Direct Decider](https://github.com/ItsOdeLeo/MLX-Direct-Decider): Python library for local action selection and semantic routing on Apple Silicon with existing compatible MLX models, without fine-tuning.
 - [JuL](https://github.com/usejul/jul): Typed decisions (choice, yes/no, score) read from the hidden states of a local LLM on MLX, without generating a token. Also runs on PyTorch.
 - [TrainJudge](https://github.com/Himanshukurrey/trainjudge): Diagnoses whether fine-tuning fits a goal, trains LoRA adapters with mlx-lm (or PyTorch on CUDA), and verifies them on held-out task metrics and a general-skills regression suite instead of training loss.
 - [mlxtrace](https://github.com/Arthur031221/mlxtrace): MLX training step profiler with power and memory sampling, producing a standalone HTML timeline. Works with hand-written MLX training loops or mlx-lm-lora callbacks.
@@ -92,6 +98,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 * [snipmd](https://github.com/Arthur031221/snipmd): Hotkey a screen region on macOS and get Markdown or LaTeX on the clipboard. Runs the 0.9B GLM-OCR model locally via MLX (or Ollama off Apple Silicon).
 * [ThunderTalk](https://github.com/realAllenSong/ThunderTalk): Local voice toolkit for macOS. Hotkey dictation in any app (Qwen3-ASR and MOSS-Transcribe-Diarize on MLX), file transcription with speaker labels, and text-to-speech with voice cloning (VoxCPM2 through mlx-audio and IndexTTS-2.5 on MLX). Chinese, English and mixed speech, fully on-device.
 * [Local Transcriber](https://github.com/teconomix/local-transcriber): macOS menu bar app that records meetings and calls and transcribes them locally with Whisper large-v3-turbo on MLX, with pyannote speaker recognition, dictation into any app, a CLI and an MCP server. (MIT)
+* [Just Think](https://github.com/pragyaangaur/Just-Think): A preregistered boredom study that steers Qwen 2.5 7B's residual stream on a 4-bit MLX model, running under 8 GB on a 16 GB Apple Silicon Mac.
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
