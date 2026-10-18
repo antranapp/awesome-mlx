@@ -115,3 +115,4 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [Outmake](https://outmake.app): Free Mac app that runs local models for chat, pictures, video, voices and dictation. Its voices (Qwen3-TTS and others from Hugging Face) run on MLX Swift through mlx-audio-swift.
 - [mlx-agent](https://github.com/cavi-ai/mlx-agent): Discover, verify, and wire local MLX-optimized models on Apple Silicon with coding-agent adapters (Claude Code, Codex, Antigravity) and AgentSkill.
 - [mlx-workbench](https://github.com/cavi-ai/mlx-workbench): Local web and SwiftUI UI for the MLX model lifecycle on Apple Silicon (scan, convert, benchmark, serve).
+- [Pretype](https://github.com/nikiomori/Pretype): System-wide autocomplete for macOS. Copilot-style suggestions, typo fixes, rewrites and dictation in any text field, from Gemma, Qwen and MiniCPM models running on MLX Swift. Fully offline. (MIT)
