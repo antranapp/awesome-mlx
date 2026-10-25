@@ -74,6 +74,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [decision-tune](https://github.com/decision-tune/decision-tune): A 395M decision model with an MLX backend on Apple silicon. It picks one option from a list, or gives an uncalibrated P(yes) score, with one encoder pass. About 10 ms per short decision.
 - [pydecide](https://github.com/gopaljigaur/decide): One Python client for typed decisions (choice, score, yes/no) that runs the laya-mlx checkpoints on Apple Silicon first and calls a hosted model only when the local one errors or answers below a confidence threshold, with the backend that answered recorded on every response.
 - [Ollama Herd](https://github.com/geeks-accelerator/ollama-herd): Routes LLM, image, speech-to-text and embedding requests across a fleet of Macs. Runs `mlx_lm.server` as a first-class backend alongside Ollama, auto-discovers nodes over mDNS, and picks a node by memory fit, thermal state, queue depth and which models are already loaded.
+- [taskdistill](https://github.com/B0yko/taskdistill): Distils single-turn classification and JSON extraction tasks into local models with MLX LoRA on Apple Silicon, then serves an OpenAI-compatible cascade with a validation-selected threshold for API fallback. Includes cached teacher-response replay. Apache-2.0.
 
 ## Demo
 
