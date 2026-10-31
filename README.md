@@ -80,6 +80,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 ## Demo
 
 - [MFlux](https://github.com/mflux-community/mflux):  MLX native implementations of state-of-the-art generative image & video models
+- [phobos-stream](https://github.com/martianacademy/phobos-stream): Zero-VRAM universal diffusion streaming engine for massive 12B–20B+ Video & Image DiTs (Wan2.1 14B, FLUX.1 12B, HunyuanVideo 13B) on Apple Silicon Metal via MLX with ComfyUI native custom node support.
 - [flux-generator](https://github.com/voipnuggets/flux-generator): Flux Generatoe is a high-performance macOS web application that enabled local image generation using Blackforest Flux models (Schnell/Dev) and Stable Diffusion (sdxl-turbo/stable-diffusion-2-1) and musci generation using facebook/musicgen. It also provides an API for image generation compatable with third party applications like open-webui.
 - [mlx-chat-app](https://github.com/mlx-chat/mlx-chat-app): Chat with MLX is a high-performance macOS application that connects your local documents to a personalized large language model (LLM).
 - [photo-similarity-search](https://github.com/harperreed/photo-similarity-search): Super simple MLX (apple silicon) CLIP based photo similarity web app
