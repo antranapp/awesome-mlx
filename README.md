@@ -26,6 +26,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 
 ## Libraries and Tools
 
+- [ncm-mlx](https://github.com/janmus1c/ncm-mlx): Next-Concept Modeling (parallel coarse-to-fine text generation) in MLX. Runs the released HazyResearch TinyStories and Sudoku checkpoints on the Apple GPU with output parity to upstream PyTorch, and trains NCM models from scratch. `pip install ncm-mlx`.
 - [DeeWaanAI Serve](https://github.com/DeeWaanAI/deewaanai-serve) - Open research prototype: pinned-expert MoE serving on MLX. Measured a RAM/model-size concurrency crossover (up to ~2x concurrent users vs llama.cpp) and streams models larger than RAM as a proof of concept. AGPL-3.0.
 
 - [atlas](https://github.com/Matth21/atlas): Measured-cost LLM quantizer — profiles per-block KL sensitivity, then solves (bit-width, group-size) allocation exactly for any RAM budget (`atlas <model> --budget-gb 6`). Ships pre-computed cost tables; runs entirely on-device.
@@ -80,6 +81,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 ## Demo
 
 - [MFlux](https://github.com/mflux-community/mflux):  MLX native implementations of state-of-the-art generative image & video models
+- [phobos-stream](https://github.com/martianacademy/phobos-stream): Zero-VRAM universal diffusion streaming engine for massive 12B–20B+ Video & Image DiTs (Wan2.1 14B, FLUX.1 12B, HunyuanVideo 13B) on Apple Silicon Metal via MLX with ComfyUI native custom node support.
 - [flux-generator](https://github.com/voipnuggets/flux-generator): Flux Generatoe is a high-performance macOS web application that enabled local image generation using Blackforest Flux models (Schnell/Dev) and Stable Diffusion (sdxl-turbo/stable-diffusion-2-1) and musci generation using facebook/musicgen. It also provides an API for image generation compatable with third party applications like open-webui.
 - [mlx-chat-app](https://github.com/mlx-chat/mlx-chat-app): Chat with MLX is a high-performance macOS application that connects your local documents to a personalized large language model (LLM).
 - [photo-similarity-search](https://github.com/harperreed/photo-similarity-search): Super simple MLX (apple silicon) CLIP based photo similarity web app
@@ -103,6 +105,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 * [Local Transcriber](https://github.com/teconomix/local-transcriber): macOS menu bar app that records meetings and calls and transcribes them locally with Whisper large-v3-turbo on MLX, with pyannote speaker recognition, dictation into any app, a CLI and an MCP server. (MIT)
 * [Just Think](https://github.com/pragyaangaur/Just-Think): A preregistered boredom study that steers Qwen 2.5 7B's residual stream on a 4-bit MLX model, running under 8 GB on a 16 GB Apple Silicon Mac.
 - [Phosphene](https://github.com/mrbizarro/Phosphene): Local AI video studio for Apple Silicon Macs, running LTX-2.5 and MiniMax H3 through MLX to generate video from text and images.
+* [Murmury](https://github.com/GianlucaBave/murmury): macOS app that transcribes the other side of a video call on-device with Whisper large-v3-turbo on MLX (mlx-whisper) and shows short answers from your own documents in a floating window excluded from screen capture. GPL-3.0.
 
 ## MLX Swift
 - [MLX Swift](https://github.com/ml-explore/mlx-swift): Swift API for MLX
