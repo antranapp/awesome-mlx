@@ -104,6 +104,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 * [ThunderTalk](https://github.com/realAllenSong/ThunderTalk): Local voice toolkit for macOS. Hotkey dictation in any app (Qwen3-ASR and MOSS-Transcribe-Diarize on MLX), file transcription with speaker labels, and text-to-speech with voice cloning (VoxCPM2 through mlx-audio and IndexTTS-2.5 on MLX). Chinese, English and mixed speech, fully on-device.
 * [Local Transcriber](https://github.com/teconomix/local-transcriber): macOS menu bar app that records meetings and calls and transcribes them locally with Whisper large-v3-turbo on MLX, with pyannote speaker recognition, dictation into any app, a CLI and an MCP server. (MIT)
 * [Just Think](https://github.com/pragyaangaur/Just-Think): A preregistered boredom study that steers Qwen 2.5 7B's residual stream on a 4-bit MLX model, running under 8 GB on a 16 GB Apple Silicon Mac.
+- [Phosphene](https://github.com/mrbizarro/Phosphene): Local AI video studio for Apple Silicon Macs, running LTX-2.5 and MiniMax H3 through MLX to generate video from text and images.
 * [Murmury](https://github.com/GianlucaBave/murmury): macOS app that transcribes the other side of a video call on-device with Whisper large-v3-turbo on MLX (mlx-whisper) and shows short answers from your own documents in a floating window excluded from screen capture. GPL-3.0.
 
 ## MLX Swift
