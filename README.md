@@ -78,6 +78,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [Ollama Herd](https://github.com/geeks-accelerator/ollama-herd): Routes LLM, image, speech-to-text and embedding requests across a fleet of Macs. Runs `mlx_lm.server` as a first-class backend alongside Ollama, auto-discovers nodes over mDNS, and picks a node by memory fit, thermal state, queue depth and which models are already loaded.
 - [taskdistill](https://github.com/B0yko/taskdistill): Distils single-turn classification and JSON extraction tasks into local models with MLX LoRA on Apple Silicon, then serves an OpenAI-compatible cascade with a validation-selected threshold for API fallback. Includes cached teacher-response replay. Apache-2.0.
 - [Kapitsa](https://github.com/nace-ai/kapitsa): Native C++ inference engine for Apple Silicon that does not use MLX: hand-written Metal kernels plus the Neural Engine. Serves OpenAI- and Anthropic-compatible APIs and starts coding agents on a local model (`kapitsa opencode|claude|codex|pi`). Runs Qwen 3.5/3.6/3.8 and NVIDIA Nemotron models. Apache-2.0.
+- [LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX): Evidence-first inference measurement for MLX-LM on Apple Silicon, with Apple Instruments (Metal) trace import, per-metric provenance and correctness-checked workloads. Apache-2.0.
 
 ## Demo
 
