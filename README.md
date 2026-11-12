@@ -79,6 +79,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [taskdistill](https://github.com/B0yko/taskdistill): Distils single-turn classification and JSON extraction tasks into local models with MLX LoRA on Apple Silicon, then serves an OpenAI-compatible cascade with a validation-selected threshold for API fallback. Includes cached teacher-response replay. Apache-2.0.
 - [Kapitsa](https://github.com/nace-ai/kapitsa): Native C++ inference engine for Apple Silicon that does not use MLX: hand-written Metal kernels plus the Neural Engine. Serves OpenAI- and Anthropic-compatible APIs and starts coding agents on a local model (`kapitsa opencode|claude|codex|pi`). Runs Qwen 3.5/3.6/3.8 and NVIDIA Nemotron models. Apache-2.0.
 - [LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX): Evidence-first inference measurement for MLX-LM on Apple Silicon, with Apple Instruments (Metal) trace import, per-metric provenance and correctness-checked workloads. Apache-2.0.
+- [mlxvs](https://github.com/mikepapadim/mlxvs): Vector search on the Apple Silicon GPU with MLX. A CAGRA graph index (as in NVIDIA cuVS) with filtered search, exact k-NN, k-means and k-NN graphs (NN-Descent), exported to hnswlib and JVector, with a C API. `pip install mlxvs`. Apache-2.0.
 
 ## Demo
 
