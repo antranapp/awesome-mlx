@@ -49,6 +49,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [keras-mlx](https://github.com/keras-team/keras-mlx): MLX backend for Keras 3, so Keras models can train and run on Apple silicon.
 - [PyOllaMx (Ollama + MlX)](https://github.com/kspviswa/pyOllaMx): Your gateway to both Ollama & Apple MlX models
 - [mlx-bench](https://github.com/argmaxinc/mlx-bench): Benchmark MLX Performance across commits
+- [solvetime](https://github.com/audenvenn/solvetime): Coding-agent benchmark for local models on Apple Silicon: tasks solved and time to solution per engine and build (mlx-lm, LM Studio, oMLX, MTPLX, Ollama, llama.cpp, ...), with every trajectory published
 - [mlx-image](https://github.com/riccardomusmeci/mlx-image): mlx image models for Apple Silicon machines
 - [mlx-local-server](https://github.com/Doriandarko/mlx-local-server): A tiny server to run local inference on MLX model in the style of OpenAI
 - [AutoMLX](https://github.com/wsvn53/AutoMLX): An easy-to-use LLMs inference tool for quickly loading models accelerated by the Apple MLX framework on Mac devices, and providing a simple and compatible API interface for integration with other LLMs tools.
