@@ -81,6 +81,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX): Evidence-first inference measurement for MLX-LM on Apple Silicon, with Apple Instruments (Metal) trace import, per-metric provenance and correctness-checked workloads. Apache-2.0.
 - [inference-vitals](https://github.com/urbanmorph/inference-vitals): One screen for MLX inference and fine-tunes on Apple Silicon: tokens per second, training and validation loss, memory pressure, swap, GPU temperature and power on the same timeline. `uv tool install inference-vitals`.
 - [mlxvs](https://github.com/mikepapadim/mlxvs): Vector search on the Apple Silicon GPU with MLX. A CAGRA graph index (as in NVIDIA cuVS) with filtered search, exact k-NN, k-means and k-NN graphs (NN-Descent), exported to hnswlib and JVector, with a C API. `pip install mlxvs`. Apache-2.0.
+- [Akeratos](https://github.com/cogvera-labs/akeratos): Pretrain a small language model from scratch on your Mac with MLX. Train one in 41 minutes and 6.7 GiB (M4 Max), or enter the 5-minute speedrun. Apache-2.0.
 
 ## Demo
 
