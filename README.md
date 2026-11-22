@@ -81,6 +81,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX): Evidence-first inference measurement for MLX-LM on Apple Silicon, with Apple Instruments (Metal) trace import, per-metric provenance and correctness-checked workloads. Apache-2.0.
 - [inference-vitals](https://github.com/urbanmorph/inference-vitals): One screen for MLX inference and fine-tunes on Apple Silicon: tokens per second, training and validation loss, memory pressure, swap, GPU temperature and power on the same timeline. `uv tool install inference-vitals`.
 - [mlxvs](https://github.com/mikepapadim/mlxvs): Vector search on the Apple Silicon GPU with MLX. A CAGRA graph index (as in NVIDIA cuVS) with filtered search, exact k-NN, k-means and k-NN graphs (NN-Descent), exported to hnswlib and JVector, with a C API. `pip install mlxvs`. Apache-2.0.
+- [ModelTower](https://github.com/dan-cube/modeltower): Native macOS console for oMLX: installs it, loads and switches models with memory estimates (does it fit, the most it can reach at full context), self-tests each model after loading, and gives each client app its own key through a gateway that only passes loaded models. Apache-2.0.
 
 ## Demo
 
