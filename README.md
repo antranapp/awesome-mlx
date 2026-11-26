@@ -26,6 +26,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 
 ## Libraries and Tools
 
+- [fastforks](https://github.com/kleinicke/fastforks): Faster versions of ~600 published computer-vision models (depth, stereo, optical flow, segmentation, detection, classification, backbones) behind one API, with an MLX backend on Apple silicon (currently dynamically converted, moving to hand-written MLX ports).
 - [ncm-mlx](https://github.com/janmus1c/ncm-mlx): Next-Concept Modeling (parallel coarse-to-fine text generation) in MLX. Runs the released HazyResearch TinyStories and Sudoku checkpoints on the Apple GPU with output parity to upstream PyTorch, and trains NCM models from scratch. `pip install ncm-mlx`.
 - [DeeWaanAI Serve](https://github.com/DeeWaanAI/deewaanai-serve) - Open research prototype: pinned-expert MoE serving on MLX. Measured a RAM/model-size concurrency crossover (up to ~2x concurrent users vs llama.cpp) and streams models larger than RAM as a proof of concept. AGPL-3.0.
 
