@@ -29,7 +29,6 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [fastforks](https://github.com/kleinicke/fastforks): Faster versions of ~600 published computer-vision models (depth, stereo, optical flow, segmentation, detection, classification, backbones) behind one API, with an MLX backend on Apple silicon (currently dynamically converted, moving to hand-written MLX ports).
 - [ncm-mlx](https://github.com/janmus1c/ncm-mlx): Next-Concept Modeling (parallel coarse-to-fine text generation) in MLX. Runs the released HazyResearch TinyStories and Sudoku checkpoints on the Apple GPU with output parity to upstream PyTorch, and trains NCM models from scratch. `pip install ncm-mlx`.
 - [DeeWaanAI Serve](https://github.com/DeeWaanAI/deewaanai-serve) - Open research prototype: pinned-expert MoE serving on MLX. Measured a RAM/model-size concurrency crossover (up to ~2x concurrent users vs llama.cpp) and streams models larger than RAM as a proof of concept. AGPL-3.0.
-
 - [atlas](https://github.com/Matth21/atlas): Measured-cost LLM quantizer — profiles per-block KL sensitivity, then solves (bit-width, group-size) allocation exactly for any RAM budget (`atlas <model> --budget-gb 6`). Ships pre-computed cost tables; runs entirely on-device.
 - [mlxserver](https://www.mlxserver.com/): This Python library is the easist way to begin building on top of Apple's machine learning library, MLX.
 - [mlx-llm](https://github.com/riccardomusmeci/mlx-llm): Large Language Models (LLMs) applications and tools running on Apple Silicon in real-time with Apple MLX.
@@ -61,13 +60,11 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [mlx-serve](https://github.com/ddalcu/mlx-serve): Native Zig inference server for Apple Silicon. OpenAI- and Anthropic-compatible APIs (works with Claude Code), runs both MLX and GGUF models, with speculative decoding and KV-cache quantization. Ships MLX Core, a macOS menu-bar app with chat, agent mode, and tool calling.
 - [MTPLX](https://github.com/youssofal/MTPLX): Native multi-token prediction inference engine and Mac app for Apple Silicon. Runs Qwen 3.5, 3.6 and 3.8 with their MTP heads, exact at any temperature, up to 125 tok/s on Qwen 3.8 Flash Next on an M5 Max. OpenAI and Anthropic compatible server, works with Claude Code, OpenCode and Continue.
 - [Espetero](https://github.com/JarJarFran/espetero): Native C++20/Metal inference server for Apple Silicon (not built on MLX) that loads MLX-format models, and GGUF, and serves OpenAI, Anthropic and Ollama APIs; continuous batching in one GPU pass per step, MTP drafts, grammar-constrained output.
-
 - [docker_mlx_cpp](https://github.com/RobotFlow-Labs/docker_mlx_cpp) - The NVIDIA Container Toolkit for Mac. Give any Docker container full Metal GPU access. 107+ GPU operations via MLX.
 - [mlx-teacache](https://github.com/IonDen/mlx-teacache): TeaCache step-skipping wrapper for mflux FLUX models on Apple Silicon, with per-variant benchmark notes.
 - [mlx-taef](https://github.com/IonDen/mlx-taef): TAESD/TAEF tiny autoencoders in MLX for fast diffusion latent previews and low-memory decode on Apple Silicon.
 - [mlx-sparse](https://github.com/waleed-sh/mlx-sparse): Sparse array containers, primitives and linear algebra for MLX.
 - [MacProvider](https://github.com/Augustas11/macprovider): Coordinator + gateway that turns any Apple Silicon Mac into a remote-addressable mlx-lm endpoint. OpenAI-compatible API, outbound-WebSocket provider daemon (no port-forwarding), and signed receipts binding (prompt, output, provider) for verifiable inference.
-
 - [mlx-smolvla](https://github.com/daniiarabdiev/mlx-smolvla): SmolVLA on Apple Silicon with an MLX-native runtime for checkpoint inference, LeRobot-protocol serving, preview LoRA training, and PyTorch parity gates.
 - [claude-code-local](https://github.com/nicedreamzapp/claude-code-local): MLX-native local server that speaks the Anthropic Messages API, so Claude Code runs fully on-device on Apple Silicon. Includes tool-call parsing for Qwen, Gemma, Hermes and other open models.
 - [nemotron-omni-mlx](https://github.com/nicedreamzapp/nemotron-omni-mlx): Pure MLX runtime for NVIDIA Nemotron Omni (text, vision and audio) on Apple Silicon, with parity tests against NVIDIA's PyTorch reference.
@@ -83,6 +80,7 @@ An awesome list dedicated to the [MLX library](https://github.com/ml-explore/mlx
 - [LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX): Evidence-first inference measurement for MLX-LM on Apple Silicon, with Apple Instruments (Metal) trace import, per-metric provenance and correctness-checked workloads. Apache-2.0.
 - [inference-vitals](https://github.com/urbanmorph/inference-vitals): One screen for MLX inference and fine-tunes on Apple Silicon: tokens per second, training and validation loss, memory pressure, swap, GPU temperature and power on the same timeline. `uv tool install inference-vitals`.
 - [mlxvs](https://github.com/mikepapadim/mlxvs): Vector search on the Apple Silicon GPU with MLX. A CAGRA graph index (as in NVIDIA cuVS) with filtered search, exact k-NN, k-means and k-NN graphs (NN-Descent), exported to hnswlib and JVector, with a C API. `pip install mlxvs`. Apache-2.0.
+- [MLX Stack](https://github.com/mukhanov/mlx-stack): Native macOS menu-bar app that runs local LLMs on Apple Silicon with MLX or llama.cpp and serves them to coding agents (pi, omp, opencode, Claude Code, DeepSeek Harness) over OpenAI- and Anthropic-compatible APIs on localhost. Model manager with RAM-budgeted downloads, launch parameters with a live memory forecast, and a live monitor of decode rate, context usage and system load. Installable via Homebrew.
 
 ## Demo
 
